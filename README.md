@@ -74,7 +74,7 @@ pip install \
 ```
 
 ## Running
-```bash
+```.bash
 # Activate environment
 source ~/qubo/venv/bin/activate
 
