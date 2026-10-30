@@ -1,7 +1,7 @@
 # 🔐 Qubo  
 **Smart Door Lock System powered by Raspberry Pi 5 + Arduino Uno**
 
-A modular, edge-based access control system integrating:
+A modular, edge-based access control system integrating
 - Face Recognition (InsightFace + ONNX)
 - Web Dashboard (real-time control & logs)
 - Serial Communication (Arduino lock control)
